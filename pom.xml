@@ -104,7 +104,6 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.dingjiaxiong.user_center_backend.UserCenterBackendApplication</mainClass>
-                    <skip>true</skip>
                 </configuration>
                 <executions>
                     <execution>
